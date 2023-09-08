@@ -29,7 +29,7 @@ const siteProps = {
   email: "leerish.arvind@studentambassadors.com",
   gitHub: "Leerish",
   instagram: "_.lee_10._",
-  linkedIn: "Leerish Arvind",
+  linkedIn: "leerish-arvind",
   medium: "",
   twitter: "",
   youTube: "",
